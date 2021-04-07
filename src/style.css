@@ -1,0 +1,53 @@
+body{ 
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("bg.png"); 
+    background-size: 100% 100%;
+    -webkit-text-stroke-width: 2px; 
+    -webkit-text-stroke-color: white;
+}
+
+
+
+h1 {
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    text-align: center;
+    margin-top: 30pt;
+    float: none;
+    font-size: 37;
+    color: rgb(211, 176, 20);
+
+
+
+}
+  
+h2 {
+    text-align: left;
+    margin-top: 30pt;
+    float: none;
+    color: blanchedalmond;
+}
+
+#frase{
+    margin: 90px;
+    border: 5px solid black;
+    padding: 150px;
+    background-color: rgb(224, 169, 17); 
+    float:inline-start;
+    color: white;
+    
+}
+
+#saida{
+    text-align: right;
+    margin-top: 30pt;
+    float: none;
+}
+
+#codificado{
+    margin: 90px;
+    border: 5px solid black;
+    padding: 150px;
+    background-color: rgb(224, 169, 17); 
+    float:inline-start;
+    color: white;
+}
